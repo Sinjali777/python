@@ -18,3 +18,22 @@ a/=2
 print(a)
 
 #comparison operators -> ==,>,>=,<,!=,etc
+b=(14>=7)
+print(b)
+b=(14<=7)
+print(b)
+b=(14<7)
+print(b)
+b=(14>7)
+print(b)
+b=(14==7)
+print(b)
+b=(14!=7)
+print(b)
+
+#Logical Operators -> and,or,not
+bool1=True
+bool2=False
+print("The value of bool1 and bool2 is", (bool1 and bool2))
+print("The value of bool1 and bool2 is", (bool1 or bool2))
+print("The value of bool1 and bool2 is", (not bool2))
