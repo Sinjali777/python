@@ -1,4 +1,4 @@
-fruits=["apple", "banana", "mango", "grapes"]
+fruits=["apple", "banana", "mango", "grapes", "watermelon", "peach"]
 
 for item in fruits:
 
