@@ -2,5 +2,5 @@
 num=int(input("Enter any number for multiplication"))
 i=1
 while i<=10:
-    print(f"{num}x{i}={num*i}")
-    i=i+1
+    print(f"{num}x{i}={num*i}") #this gives the table of the number
+    i=i+1 
